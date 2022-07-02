@@ -2,9 +2,9 @@
 The sum of two non-empty linked lists representing two non-negative integers are calculated. 
 
 ## Installation and Execution
-Requirements: ```javac``` and ```jar```
-```Compile: javac add.java```
-```Execute: java add```
+Requirements: ```javac``` and ```jar```  
+Compile: ```javac add.java```  
+Execute: ```java add```  
 
 ## Usage
 Enter each number using single digits between 0-9 separated by a ","
